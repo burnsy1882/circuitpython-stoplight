@@ -1,2 +1,1 @@
-# pielet-stoplight
-CircuitPython Stoplight
+# CircuitPython Stoplight
